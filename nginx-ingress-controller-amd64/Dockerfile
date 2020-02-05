@@ -1,3 +1,3 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller-amd64:0.24.1
-MAINTAINER www.luyouli.com
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.28.0
+MAINTAINER chenpingan
 
